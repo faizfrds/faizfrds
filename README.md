@@ -1,6 +1,6 @@
 ### Hello, I'm Faiz.
 
-I'm a current undergraduate student studying computer science with other interests in graphic design, cybersecurity, and sports. 
+I'm a current computer science undergraduate student with other interests in graphic design, cybersecurity, and sports. 
 
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
