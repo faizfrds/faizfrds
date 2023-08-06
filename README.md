@@ -1,8 +1,10 @@
 ### Hello, I'm Faiz.
 
-I'm a current student studying computer science with other interests in graphic design , cybersecurity, and sports!
+I'm a current undergraduate student studying computer science with other interests in graphic design , cybersecurity, and sports.
 
-🔭 I’m currently working on building my portfolio website
+🔭 Currently working on cat-adopt-site.
+🌱 I’m currently learning React Native and C.
+📫 Contact Me: ffirdaus@umass.edu
 
 <!--
 **faizfrds/faizfrds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
