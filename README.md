@@ -6,7 +6,7 @@ I'm a current computer science undergraduate student with other interests in gra
 
 - 📌 Part-time Undergraduate Course Assistant for CS119 - Introduction to Programming with Python
 - 🔭 Working on cat-adopt-site.
-- 🌱 Currently learning React Native and C.
+- 🌱 Currently learning Next.js and React.
 - 📫 Contact Me: ffirdaus@umass.edu
 
 <!--
