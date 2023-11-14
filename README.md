@@ -1,4 +1,4 @@
-### Hello, I'm Faiz.
+### About Me
 
 I'm a current computer science undergraduate student with other interests in graphic design, cybersecurity, and sports. 
 
