@@ -5,7 +5,7 @@ Undergrad computer science student at UMass Amherst.
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
 - 📌 Part-time Undergraduate Course Assistant for CS119 - Introduction to Programming with Python
-- 🔭 Working on cat-adopt-site.
+- 🔭 Working on Academix group-34-project
 - 🌱 Currently learning C and Express.js
 - 📫 Contact Me: ffirdaus@umass.edu
 
