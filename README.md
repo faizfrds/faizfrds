@@ -4,10 +4,10 @@ Undergraduate computer science student at UMass Amherst.
 
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript, BPF; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
-- 📌 Undergraduate Research Assistant and Undegraduate Teaching Assistant for CS326 (Web Programming)
-- 🔭 Working on XDN Project
-- 🌱 Currently learning eBPF
-- 📫 Contact Me: ffirdaus@umass.edu
+- 📌 Undergraduate Teaching Assistant for CS326 (Web Programming)
+
+- 🌱 Currently learning SQL in-depth
+- 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
 **faizfrds/faizfrds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> - 🔭 Working on XDN Project
