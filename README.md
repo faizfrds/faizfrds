@@ -6,7 +6,8 @@ Undergraduate computer science student at UMass Amherst.
 
 - 📌 Undergraduate Teaching Assistant for CS326 (Web Programming)
 
-- 🌱 Currently learning SQL in-depth
+- 🌱 Currently learning Algorithms, Database management in SQL, Computer network and security.
+- 🔭 Working on finding internships!
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> - 🔭 Working on XDN Project
+--> 
