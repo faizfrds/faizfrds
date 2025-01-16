@@ -4,9 +4,8 @@ Undergraduate computer science student at UMass Amherst.
 
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript, BPF; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
-- 📌 Undergraduate Teaching Assistant for CS326 (Web Programming)
-
-- 🌱 Currently learning Algorithms, Database management in SQL, Computer network and security.
+- 📌 Undergraduate Course Assistant for CS326 (Web Programming), Researcher for Wireless and Sensor Systems Lab
+- 🌱 Currently learning IoT, machine learning, and smart agriculture.
 - 🔭 Working on finding internships!
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
