@@ -6,7 +6,7 @@ Undergraduate computer science student at UMass Amherst.
 
 - 📌 Undergraduate Course Assistant for CS326 (Web Programming), Researcher for Wireless and Sensor Systems Lab
 - 🌱 Currently learning IoT, machine learning, and smart agriculture.
-- 🔭 Working on finding internships!
+- 🔭 AWS Intern
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
