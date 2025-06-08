@@ -5,8 +5,8 @@ Undergraduate computer science student at UMass Amherst.
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript, BPF; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
 - 📌 Undergraduate Course Assistant for CS326 (Web Programming), Researcher for Wireless and Sensor Systems Lab
-- 🌱 Currently an AWS Intern.
-- 🔭 AWS Intern
+- 🌱 AWS Summer Intern working on AppSync
+- 🔭 Looking to learn IoT and full-stack development
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
