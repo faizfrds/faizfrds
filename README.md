@@ -6,7 +6,7 @@ Undergraduate senior computer science and math student at UMass Amherst.
 
 - 📌 Undergraduate Course Assistant for CS326 (Web Programming), Researcher for Wireless and Sensor Systems Lab
 - 🌱 AWS Summer Intern working on AWS AppSync
-- 🔭 Looking to learn IoT and full-stack development
+- 🔭 Learning IoT, low-level, ML, and full-stack development
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
