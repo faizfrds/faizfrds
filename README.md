@@ -6,7 +6,7 @@ Undergraduate senior computer science and math student at UMass Amherst.
 
 - 📌 Undergraduate Course Assistant for CS326 (Web Programming)
 - 👯 Researching Computer Vision applications for the Forest Insect Conservation and Management Laboratory at UMass
-- 🌱 Prev AWS Intern
+- 🌱 Prev SDE Intern at Amazon Web Services
 - 🔭 Learning IoT, low-level, ML, and full-stack development
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
