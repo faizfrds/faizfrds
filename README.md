@@ -7,7 +7,7 @@ Computer Science at UMass Amherst.
 - 📌 Incoming Google Intern
 - 👯 Researching computer vision and developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
 - 🌱 Prev SDE Intern at Amazon Web Services (AWS)
-- 🔭 Learning IoT, low-level, ML, and full-stack development
+- 🔭 Learning IoT, systems, ML, and full-stack development
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
