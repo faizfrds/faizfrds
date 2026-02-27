@@ -1,6 +1,6 @@
 ### About Me
 
-Senior computer science and math student at UMass Amherst.
+Computer Science at UMass Amherst.
 
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript, BPF; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
