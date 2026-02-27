@@ -5,8 +5,8 @@ Senior computer science and math student at UMass Amherst.
 🌏 Technical Skills: Java, Python, C, SQL, PHP, HTML/CSS,  JavaScript, TypeScript, BPF; Object-oriented Programming, React.js, Node.js, Git, Supabase, Rest APIs, Tailwind CSS, mySQL, postgreSQL, Vercel, Linux, OSINT, Kali Linux, Adobe Photoshop, Adobe Dreamweaver, UI/UX, Bootstrap
 
 - 📌 Incoming Google Intern
-- 👯 Researching computer vision and developing DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
-- 🌱 Prev SDE Intern at Amazon Web Services
+- 👯 Researching computer vision and developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
+- 🌱 Prev SDE Intern at Amazon Web Services (AWS)
 - 🔭 Learning IoT, low-level, ML, and full-stack development
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
