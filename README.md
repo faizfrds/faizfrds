@@ -2,7 +2,7 @@
 
 Computer Science at UMass Amherst.
 
-🌏 Interests: full-stack development, UI/UX, systems programming, ML for conservation
+🌏 Interests: full-stack development, UI/UX, systems programming, Applied AI for conservation and health
 
 - 👯 Researching computer vision and developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
 - 🌱 Prev SDE Intern at Amazon Web Services (AWS)
