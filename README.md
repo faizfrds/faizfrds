@@ -7,7 +7,7 @@ Computer Science at UMass Amherst.
 - 👯 Researching computer vision and developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
 - 🌱 Prev SDE Intern at Amazon Web Services (AWS)
 - 🔭 Learning agentic AI and networks, focusing on Google Cloud ecosystem
-- ⚡ Interests in mapping software, human-in-the-loop AI applications, and product development
+- ⚡ Interests in mapping software, human-in-the-loop AI applications, and developer tools
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
