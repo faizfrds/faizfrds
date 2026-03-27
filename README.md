@@ -6,7 +6,7 @@ Computer Science at UMass Amherst.
 
 - 👯 Developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
 - 🌱 Prev SDE Intern at Amazon Web Services (AWS) with the AppSync team
-- 🔭 Currently exploring **Google Maps Platform, Google ADK, and the GCP ecosystem**
+- 🔭 Currently exploring **Google Maps Platform, Google AI Studio, and the GCP ecosystem**
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
