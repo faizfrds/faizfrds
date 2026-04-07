@@ -4,7 +4,7 @@ Computer Science at UMass Amherst.
 
 🌏 Interests: full-stack development, UI/UX, mapping software, agentic AI applications (particularly for the environment and human wellbeing), HITL apps, developer tools
 
-- 👯 Developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass
+<!-- - 👯 Developing a DNA web app for the Forest Insect Conservation and Management Laboratory at UMass -->
 - 🌱 Prev SDE Intern at Amazon Web Services (AWS) with the AppSync team
 - 🔭 Currently exploring **Google Maps Platform, Google AI Studio, and the GCP ecosystem**
 - 📫 Contact Me: faizfirdaus.340@gmail.com
