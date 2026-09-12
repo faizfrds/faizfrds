@@ -6,7 +6,7 @@ Computer Science at UMass Amherst.
 
 - 👯 SWE Intern at Google Core
 - 🌱 Prev SWE Intern at Amazon Web Services (AWS) with AppSync team
-- 🔭 Currently exploring **Google Maps Platform, Google ADK, and agent telemetry **
+- 🔭 Currently exploring **Geospatial data representation, Google ADK, and agent telemetry**
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
