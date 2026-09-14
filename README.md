@@ -2,7 +2,7 @@
 
 Computer Science at UMass Amherst.
 
-🌏 Interests: Agent evaluations, geospatial data, generative AI, full-stack, AI/ML applications for sustainability tech, HITL systems, developer tools
+🌏 Interests: Geospatial data, generative AI, agentic applications, full-stack, sustainability tech, HITL systems, developer tools
 
 - 👯 SWE Intern at Google Core
 - 🌱 Prev SWE Intern at Amazon Web Services with AppSync team
