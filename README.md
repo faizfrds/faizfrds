@@ -4,8 +4,8 @@ Computer Science at UMass Amherst.
 
 🌏 Interests: Geospatial data, generative AI, agentic applications, full-stack, sustainability tech, HITL systems, developer tools, agent optimization
 
-- 👯 SWE Intern at Google Core
-- 🌱 Prev SWE Intern at Amazon Web Services with AppSync team
+- 👯 Exploring geospatial data and physical-world applications AI/ML
+- 🌱 SWE Intern at Google and Amazon Web Services
 - 🔭 Currently exploring **Geospatial data representation, Google ADK, and agent telemetry**
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
