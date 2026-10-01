@@ -4,9 +4,9 @@ Computer Science at UMass Amherst.
 
 🌏 Interests: Geospatial data, generative AI, agentic applications, full-stack, sustainability tech, HITL systems, developer tools, agent optimization
 
-- 👯 Exploring geospatial data and physical-world applications AI/ML
+<!-- - 👯 Exploring geospatial data and physical-world applications AI/ML -->
 - 🌱 SWE Intern at Google and Amazon Web Services
-- 🔭 Currently exploring **Geospatial data representation, Google ADK, and agent telemetry**
+- 🔭 Currently exploring **Geospatial data analysis, Google ADK, and agent telemetry**
 - 📫 Contact Me: faizfirdaus.340@gmail.com
 
 <!--
