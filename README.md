@@ -2,7 +2,7 @@
 
 Computer Science at UMass Amherst.
 
-🌏 Interests: Geospatial data, generative AI, agentic applications, full-stack, sustainability tech, HITL systems, developer tools, agent optimization
+🌏 Interests: Geospatial data, generative AI, agentic applications, full-stack, sustainability tech, HITL systems, developer tools, agent optimization, ML for the physical world
 
 <!-- - 👯 Exploring geospatial data and physical-world applications AI/ML -->
 - 🌱 SWE Intern at Google and Amazon Web Services
